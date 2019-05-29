@@ -12,7 +12,8 @@
 [欢迎使用 Colaboratory！](https://colab.research.google.com/notebooks/welcome.ipynb)
 </p>
 
-**專案程式版本：** <br/>
+專案程式版本：
+----------------------------------------------------------------------------------------------------------------------------------
 <p>
 1. Face_Recognition_GPU_Demo.ipynb --> 使用掛載自己Google雲端硬碟方式，取得圖片資料透過自己Google雲端硬碟內部位置之設置取得。<br/>
 此版本需要自己Google雲端硬碟帳戶授權控制。<br/>
