@@ -9,7 +9,7 @@
 
 <p></p>
 可參考資源：
-[欢迎使用 Colaboratory！](https://colab.research.google.com/notebooks/welcome.ipynb)
+[欢迎使用 Colaboratory！] (https://colab.research.google.com/notebooks/welcome.ipynb)
 
 
 專案程式版本：
