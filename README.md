@@ -3,7 +3,7 @@
 <p>此為使用Python3程式語言撰寫臉部辨識範例專案，使用Keras操作Tensorflow，並使用CNN 神經網絡模型建置之深度學習應用。</p>
 
 <p>
-使用**Google Colaboratory**撰寫開發，將ipynb放置到自己的Google雲端硬碟內，在Google雲端硬碟網頁視窗開啟檔案即可使用。 <br/>
+本專案使用**Google Colaboratory**撰寫開發，將ipynb放置到自己的Google雲端硬碟內，在Google雲端硬碟網頁視窗開啟檔案即可使用。 <br/>
 使用Google Colaboratory提供GPU進行深度學習運算。
 </p>
 
