@@ -8,8 +8,8 @@
 </p>
 
 <p></p>
-可參考資源：
-[欢迎使用 Colaboratory！] (https://colab.research.google.com/notebooks/welcome.ipynb)
+可參考資源：<br/>
+[欢迎使用 Colaboratory！]:(https://colab.research.google.com/notebooks/welcome.ipynb)
 
 
 專案程式版本：
