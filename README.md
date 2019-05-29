@@ -12,11 +12,10 @@
 [欢迎使用 Colaboratory！](https://colab.research.google.com/notebooks/welcome.ipynb)
 </p>
 
-<p>
 **專案程式版本：** <br/>
+<p>
 1. Face_Recognition_GPU_Demo.ipynb --> 使用掛載自己Google雲端硬碟方式，取得圖片資料透過自己Google雲端硬碟內部位置之設置取得。<br/>
 此版本需要自己Google雲端硬碟帳戶授權控制。<br/>
-  
 <p></p>
 2. Face_Recognition_GPU_data_zip_Demo.ipynb --> 透過下載指定連結網路位址，取得已包裝成壓縮檔形式圖片資料檔。<br/>
 此版本使用的圖片資料集存放位置：imgdata.zip：https://drive.google.com/open?id=19fvYcCAslDET2dP1SrwS2XAMOYGi4dgD <br/>
