@@ -21,7 +21,9 @@
 
 **2. Face_Recognition_GPU_data_zip_Demo.ipynb** --> 透過下載指定連結網路位址，取得已包裝成壓縮檔形式圖片資料檔。<br/>
 此版本使用的圖片資料集存放位置：<br/>
-imgdata.zip：https://drive.google.com/open?id=19fvYcCAslDET2dP1SrwS2XAMOYGi4dgD  (此連結可能會失效，如已失效請自行建立各自檔案連結)<br/>
+imgdata.zip：https://drive.google.com/open?id=19fvYcCAslDET2dP1SrwS2XAMOYGi4dgD  <br/>
+(此連結可能會失效，如已失效請自行建立各自檔案連結)<br/>
+
 imgdata.zip內部檔案結構：<br/>
 內容為一個imgdata目錄資料夾，裡面存放"FaceImg"(訓練用圖片) 、"Facelabeldb"(分類索引編碼存放資料庫SQLite3檔案)、"PredictFaceimg"(預測用圖片) 三個目錄資料夾。<br/>
 
