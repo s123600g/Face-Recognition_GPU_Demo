@@ -43,8 +43,8 @@ imgdata.zip內部檔案結構：<br/>
 
 臉部圖片資料集與設置：
 ----------------------------------------------------------------------------------------------------------------------------------
-<p>使用臉部圖片資料集來源：<
- [Celebrity-Face-Recognition-Dataset]https://github.com/prateekmehta59/Celebrity-Face-Recognition-Dataset </p>
+<p>使用臉部圖片資料集來源：<br/>
+[Celebrity-Face-Recognition-Dataset]https://github.com/prateekmehta59/Celebrity-Face-Recognition-Dataset </p>
 
 <p>
 使用 6 位名人的臉部圖片作為資料集來源使用，清單如下：<br/>
