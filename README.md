@@ -19,7 +19,7 @@
 
 <p></p>
 
-2. **Face_Recognition_GPU_data_zip_Demo.ipynb** --> 透過下載指定連結網路位址，取得已包裝成壓縮檔形式圖片資料檔。<br/>
+**2. Face_Recognition_GPU_data_zip_Demo.ipynb** --> 透過下載指定連結網路位址，取得已包裝成壓縮檔形式圖片資料檔。<br/>
 此版本使用的圖片資料集存放位置：<br/>
 imgdata.zip：https://drive.google.com/open?id=19fvYcCAslDET2dP1SrwS2XAMOYGi4dgD <br/>
 imgdata.zip內部檔案結構：<br/>
