@@ -14,18 +14,16 @@
 
 專案程式版本：
 ----------------------------------------------------------------------------------------------------------------------------------
-<p>
-1. Face_Recognition_GPU_Demo.ipynb --> 使用掛載自己Google雲端硬碟方式，取得圖片資料透過自己Google雲端硬碟內部位置之設置取得。<br/>
+1. **Face_Recognition_GPU_Demo.ipynb** --> 使用掛載自己Google雲端硬碟方式，取得圖片資料透過自己Google雲端硬碟內部位置之設置取得。<br/>
 此版本需要自己Google雲端硬碟帳戶授權控制。<br/>
 <p></p>
-2. Face_Recognition_GPU_data_zip_Demo.ipynb --> 透過下載指定連結網路位址，取得已包裝成壓縮檔形式圖片資料檔。<br/>
+2. **Face_Recognition_GPU_data_zip_Demo.ipynb** --> 透過下載指定連結網路位址，取得已包裝成壓縮檔形式圖片資料檔。<br/>
 此版本使用的圖片資料集存放位置：<br/>
 imgdata.zip：https://drive.google.com/open?id=19fvYcCAslDET2dP1SrwS2XAMOYGi4dgD <br/>
 imgdata.zip內部檔案結構：<br/>
 為一個imgdata目錄資料夾，裡面存放"FaceImg"(訓練用圖片) 、"Facelabeldb"(分類索引編碼存放資料庫SQLite3檔案)、"PredictFaceimg"(預測用圖片) 三個目錄資料夾。<br/>
 
 關於下載Google雲端硬碟共用檔案方法，可參考[Download Google Drive file with WGET](https://gist.github.com/iamtekeste/3cdfd0366ebfd2c0d805) <br/>
-</p>
  
 撰寫流程步驟劃分如下：
 ----------------------------------------------------------------------------------------------------------------------------------
