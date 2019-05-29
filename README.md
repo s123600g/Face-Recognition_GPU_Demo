@@ -13,3 +13,17 @@
 7. 儲存模型和權重<br/>
 8. 驗證模型(預測)
 </p>
+
+臉部圖片資料集與設置：
+----------------------------------------------------------------------------------------------------------------------------------
+<p>使用臉部圖片資料集來源：[Celebrity-Face-Recognition-Dataset](https://github.com/prateekmehta59/Celebrity-Face-Recognition-Dataset) </p>
+
+<p>
+使用6位名人的臉部圖片作為資料集來源使用，清單如下：<br/>
+1. 'Aaron Judge'<br/>
+2. 'Ben Stiller'<br/>
+3. 'Ice Cube'<br/>
+4. 'Adam Sandler'<br/>
+5. 'Emily Watson'<br/>
+6. 'Jean Reno'<br/>
+</p>
